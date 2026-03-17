@@ -1,0 +1,8 @@
+name = "stable402-api"
+main = "src/index.ts"
+compatibility_date = "2026-01-01"
+account_id = "202edbb2c6815fa53e0b39ecddb76285"
+
+[[routes]]
+pattern = "api.stable402.com/*"
+zone_name = "stable402.com"
